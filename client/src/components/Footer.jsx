@@ -3,7 +3,7 @@ import React from "react";
 const Footer = () => {
 	return (
 		<div>
-			<p>configured vim as default</p>
+			<p>I am new here</p>
 		</div>
 	);
 };
